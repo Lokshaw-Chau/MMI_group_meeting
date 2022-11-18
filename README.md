@@ -10,8 +10,8 @@
 
 ## 参考资料
 
-【腾讯文档】Multimodal Intelligencehttps://docs.qq.com/doc/DYVZBRFlrQ21VV0l2
+【腾讯文档】Multimodal Intelligence https://docs.qq.com/doc/DYVZBRFlrQ21VV0l2
 
-  Probabilistic Machine Learning:  https://github.com/probml/pml-book/releases/latest/download/book1.pdf
+  Probabilistic Machine Learning: https://github.com/probml/pml-book/releases/latest/download/book1.pdf
 
-【腾讯文档】MMI Schedulehttps://docs.qq.com/sheet/DYVB5YVl1TXdzU3FI?tab=BB08J2
+【腾讯文档】MMI Schedule https://docs.qq.com/sheet/DYVB5YVl1TXdzU3FI?tab=BB08J2
