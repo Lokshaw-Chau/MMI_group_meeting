@@ -8,6 +8,8 @@
 
 第一阶段学习Probabilistic Machine Learning前八章
 
+第二阶段学习分享经典论文（*ongoing*）
+
 ## 参考资料
 
 【腾讯文档】Multimodal Intelligence https://docs.qq.com/doc/DYVZBRFlrQ21VV0l2
